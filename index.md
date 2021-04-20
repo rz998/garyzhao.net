@@ -20,7 +20,7 @@ I am a PhD student in the [Department of Applied Mathematics, University of Wash
 
 - Email&nbsp;: juggsoul@gmail.com
 
-- GitHub: [https://github.com/rz998](https://github.com/rz998)
+- GitHub: [rz998](https://github.com/rz998)
 
 
  Pronouns: he or him
