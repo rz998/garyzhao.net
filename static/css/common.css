@@ -23,7 +23,7 @@ body {
   margin: 0 auto;
 }
 div {
-    word-wrap: break-word;
+    word-break: break-word;
 }
 * {
   -webkit-tap-highlight-color: transparent;
