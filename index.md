@@ -9,7 +9,7 @@ I am a PhD student in the [Department of Applied Mathematics, University of Wash
 
 ## Misc.
 
-- Favorite games: Bloodborne, Dota 2. I watched [The International 2019](https://en.wikipedia.org/wiki/The_International_2019) in the Shanghai's Mercedes-Benz Arena 
+- Favorite games: Bloodborne, Dota 2. I watched [The International 2019](https://en.wikipedia.org/wiki/The_International_2019) in Shanghai's Mercedes-Benz Arena 
 - Favorite anime: Attack on Titan. Check out my [anime list](https://myanimelist.net/animelist/hitsuji_)
 - Favorite light novel: Classroom of the Elite
 - Favorite songwriters: Yonezu Kenshi, Sawano Hiroyuki, Yanaginagi
