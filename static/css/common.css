@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Consolas';
   font-display: fallback;
-  src: url('../font/cmunrm.ttf');
+  src: url('../font/consola.ttf');
 }
 
 html {
@@ -16,7 +16,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   transition: all 500ms ease;
   font-family: Consolas, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', serif;
-  font-style: large
+  font-size: large
 }
 body {
   max-width: 680px;
