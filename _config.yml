@@ -2,8 +2,8 @@ encoding: utf-8
 
 # SEO相关信息
 title: GZ Blog
-description: Gary 
-keywords: TMaize,Blog,Java,Html,JavaScript
+description: PhD student in applied math
+keywords: Gary,Zhao,Blog,Java,Html,JavaScript
 author: Gary Zhao
 footerText: 'Copyright © GZ Blog 2021'
 
@@ -25,15 +25,15 @@ tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
 menu:
-  - title: Home
-    url: /pages/about.html
-  - title: Blog
+  - title: About
     url: /
+  - title: Blog
+    url: /pages/blog.html
   - title: Categories
     url: /pages/categories.html
   - title: Search
     url: /pages/search.html
-  - title: Friends
+  - title: Links
     url: /pages/links.html
   
 
