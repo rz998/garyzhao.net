@@ -4,7 +4,7 @@
   src: url('../font/consola.ttf');
 }
 
-html {
+html * {
   color: #333333;
   background: #ffffff;
   scroll-behavior: smooth;
