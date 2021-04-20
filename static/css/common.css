@@ -22,6 +22,7 @@ body {
   padding: 0 14px;
   margin: 0 auto;
   word-wrap: break-word;
+  line-break: loose;
 }
 * {
   -webkit-tap-highlight-color: transparent;
