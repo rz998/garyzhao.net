@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: GZ Blog
+title: Gary Zhao
 description: PhD student in applied math
 keywords: Gary,Zhao,Blog,Java,Html,JavaScript
 author: Gary Zhao
-footerText: 'Copyright © GZ Blog 2021'
+footerText: 'Copyright © Gary Zhao 2021'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -21,7 +21,7 @@ domainUrl: 'http://garyzhao.net'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+# tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
 menu:
@@ -29,8 +29,8 @@ menu:
     url: /
   - title: Blog
     url: /pages/blog.html
-  - title: Categories
-    url: /pages/categories.html
+  #- title: Categories
+  #  url: /pages/categories.html
   - title: Search
     url: /pages/search.html
   - title: Links
