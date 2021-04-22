@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Consolas';
+  font-family: 'Computer Modern';
   font-display: fallback;
-  src: url('../font/cmunbss.ttf');
+  src: url('../font/cmunss.ttf');
 }
 
 html  {
@@ -15,7 +15,7 @@ html  {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   transition: all 500ms ease;
-  font-family: Consolas, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'Computer Modern', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
 }
 body {
   max-width: 680px;
