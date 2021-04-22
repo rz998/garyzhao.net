@@ -2,7 +2,7 @@ encoding: utf-8
 
 # SEO相关信息
 title: Gary Zhao
-description: PhD student in applied math
+description: PhD student in Applied Mathematics
 keywords: Gary,Zhao,Blog,Java,Html,JavaScript
 author: Gary Zhao
 footerText: 'Copyright © Gary Zhao 2021'
@@ -33,8 +33,8 @@ menu:
   #  url: /pages/categories.html
   - title: Search
     url: /pages/search.html
-  - title: Links
-    url: /pages/links.html
+  - title: Resources
+    url: /pages/resources.html
   
 
 # 点击页面文字冒出特效,不需要请设置为false
