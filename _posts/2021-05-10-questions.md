@@ -1,26 +1,28 @@
 ---
 layout: mypost
-title: "Questions to be answered before the world ends"
+title: "Side quests to be completed before the world ends"
 categories: [fun]
 
 ---
 
-> Just kidding
+## Still waiting for
 
-1. 血源诅咒出续作了嘛？
+1. Bloodborne 2
 
-2. 欢迎来到实力至上主义的教室出第二季了嘛？
+2. Classroom of the Elite Season 2
 
-3. Overlord出第四季了嘛？*Season 4 announced!*
+3. Overlord Season 4 *Season 4 announced, time unknown*
 
-4. 海猫鸣泣之时动画出第二季了嘛？
+4. Umineko When They Cry Season 2
 
-5. 六花的勇者小说更新了嘛？
+5. Rokka no Yuusha
 
-6. 我的小说写完了嘛？
+6. My own novel, working on chapter 1
 
-7. 去涉谷Hotel Claire巡礼了嘛？
+## Places of interest
 
-8. 去马德里Botin Restaurant打卡了嘛？
+1. Hotel Claire, Shibuya
 
-9. 去巴尔的摩Edgar Allan Poe House打卡了嘛？
+2. Botin Restaurant, Madrid
+
+3. Edgar Allan Poe House, Baltimore
