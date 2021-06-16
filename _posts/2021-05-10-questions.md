@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: "Side quests to be completed before the world ends"
+title: "Side quests"
 categories: [fun]
 
 ---
@@ -11,7 +11,7 @@ categories: [fun]
 
 2. Classroom of the Elite Season 2
 
-3. Overlord Season 4 *Season 4 announced, time unknown*
+3. Overlord Season 4 *announced, time unknown*
 
 4. Umineko When They Cry Season 2
 
