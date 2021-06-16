@@ -11,11 +11,11 @@ categories: [fun]
 
 2. Classroom of the Elite Season 2
 
-3. Overlord Season 4 *announced, time unknown*
+3. Overlord Season 4 <ins>announced, time unknown</ins>
 
 4. Umineko When They Cry Season 2
 
-5. Rokka no Yuusha
+5. Rokka no Yuusha Volume 7
 
 6. My own novel, working on chapter 1
 
@@ -26,3 +26,4 @@ categories: [fun]
 2. Botin Restaurant, Madrid
 
 3. Edgar Allan Poe House, Baltimore
+
