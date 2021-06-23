@@ -10,6 +10,12 @@ I am a PhD student in the [Department of Applied Mathematics, University of Wash
 ## Research Interests
 Coming soon.
 
+## Contact
+
+- Email&nbsp;: juggsoul@gmail.com
+
+- GitHub: [rz998](https://github.com/rz998)
+
 ## Misc
 
 - Favorite games: Bloodborne, Dota 2. I watched [Ti 9](https://en.wikipedia.org/wiki/The_International_2019) in Shanghai's Mercedes-Benz Arena 
@@ -17,13 +23,8 @@ Coming soon.
 - Favorite light novel: Classroom of the Elite
 - Favorite songwriters: Yonezu Kenshi, Sawano Hiroyuki, Yanaginagi
 - Favorite writer: Edgar Allan Poe
+- Favorite idol: 嘉然Diana
 
-
-## Contact
-
-- Email&nbsp;: juggsoul@gmail.com
-
-- GitHub: [rz998](https://github.com/rz998)
 
 
  Pronouns: he/him
