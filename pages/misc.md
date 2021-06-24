@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Resources
+title: Misc
 ---
 
 You are welcomed to add friend links here，just send me an email. My site information is:
