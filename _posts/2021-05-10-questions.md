@@ -5,7 +5,7 @@ categories: [fun]
 
 ---
 
-## Still waiting for
+### Still waiting for
 
 1. Bloodborne 2
 
@@ -19,7 +19,7 @@ categories: [fun]
 
 6. My own novel, working on chapter 1
 
-## Places of interest
+### Places of interest
 
 1. Hotel Claire, Shibuya
 
